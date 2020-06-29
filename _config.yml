@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/newsletter"
-url: "https://sangam14.github.io/"
+url: "https://hubstation.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
