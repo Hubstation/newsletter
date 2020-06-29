@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: "/newsletter"
+url: "https://sangam14.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -18,8 +18,7 @@ theme_settings:
      <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
-
+   Powered by hubstation newsletter
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"
@@ -29,7 +28,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: ""
   gitter:
   google_plus:
   instagram:
