@@ -1,3 +1,3 @@
-# newsletter
+# Welcome to HubStation Newsletter
 
-Curated list of Blogs/Links/Articles  with interesting things going in the cloud-native space. 
+Curated list of Resources around Cloud Native Technology 
