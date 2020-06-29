@@ -1,22 +1,125 @@
 ---
 layout: post
-title: Sample post
-tags: [test, sample]
+title: June 2020 
+tags: [Jun, Hubstation]
 ---
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
+### <br> 
 
-* Consectetur adipiscing elit
-* Donec a diam lectus
-* Sed sit amet ipsum mauris
+<br> 
 
-Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
+<br> 
 
-Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula *semper consectetur sagittis*, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.
+**Newsletter** — JUNE 2020
 
-Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.
+This is the first newsletter from the community to the community. It will
+include all the learning links for the month of JUNE and all the interesting
+things going in the cloud-native space.
 
-> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
+**Tech UPDATES :**
 
-Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.
+* [Harbor — CNCF
+Graduated](https://www.cncf.io/announcement/2020/06/23/cloud-native-computing-foundation-announces-harbor-graduation/)
+* [CNCF Tech Radar
+](https://www.cncf.io/blog/2020/06/12/introducing-the-cncf-technology-radar/)— A
+new initiative based on the CNCF End-user community -
+* Docker Desktop with Docker ACI Integration update — Docker Version 19.03.12 ,
+Compose 1.26.0 & Kubernetes 1.18.3
+* [KubeCon ](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)+
+CloudNativeCon Virtual | August 17–20, 2020
+* [Rancher Certification and
+Academy](https://meet.meetup.com/ls/click?upn=SDNnya-2FgLI6CfUa8do8Zd2rdbQiLPFP9HvEEF6TPGxAHCfNqFyLS-2F4VYF-2Fr7N1g72x-2Fq2srgczaCJR3AUbjc2w-3D-3DK5zv_cUpgwKrb6AUAk9wp7EJeVkYWKCjRDuz4HoGo42MhmNDBcvDjkfBS8lkq0GB149Hm4J0Yz2pgkehB7khcwyVjZU4mE6UTawgmiZ78N9yJhgwJNxWj-2FDo4Pzoujk-2Fbcx8HPKuC-2BlRTPm-2BNgyuTNTVrfbFcOnUh9eg6I1yuc87ThsGEqzX1KRcd40ggjskvB4CEDXhMguAVHz6oh30K3DpHvyIJjM2m-2B65dpzjvBxZZTTw-3D)
+join and complete the course+certification free of cost
+* [Influxdb inventor
+program](https://www.influxdata.com/blog/become-an-influxdb-inventor/)
+* [CKA/CKAD
+updates](https://nativecloud.dev/what-changes-with-certified-kubernetes-administrator-in-september-2020/)
+* [Kubernetes Research](https://learnk8s.io/research)
+* [Free Golang book by
+Digitalocean](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)
 
-Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
+**Channels to subscribe for latest in cloud-native space:**
+
+* [Saiyam Pathak](https://www.youtube.com/channel/UCi-1nnN0eC9nRleXdZA6ncg) —
+Every week Livestream on latest cloud-native stuff
+* [Collabnix](https://www.youtube.com/channel/UCyGUMSe_Y5zuYwrIQdJuLvw) — OSCONF
+livestreams
+
+**Blogs by Community:**
+
+* [K3s upgrade](https://rancher.com/blog/2020/upgrade-your-k3s-cluster)
+* [https://collabnix.com/monitoring-multi-node-k3s-cluster-running-on-iot-using-datadog/](https://collabnix.com/monitoring-multi-node-k3s-cluster-running-on-iot-using-datadog/)
+* [Top 6 Android App You Must try for Your Raspberry
+Pi](https://www.ioetplanet.com/top-6-android-app-you-must-try-for-your-raspberry-pi/)
+* [Raspberry Pi as an Edge Gateway — 6 Reasons
+Why?](https://www.ioetplanet.com/raspberry-pi-as-an-edge-gateway-6-reasons-why/)
+* [Deploy a NodeJS app on Raspberry Pi using Docker
+containers](https://www.ioetplanet.com/deploy-a-node-js-app-on-raspberry-pi-using-docker-containers/)
+* [Introducing KubeZilla Community Collaborative
+Project](https://kubezilla.com/introducing-kubezilla-community-collaborative-project/)
+* [Deploy Your AWS EKS Cluster using
+Terraform](https://kubezilla.com/deploy-your-aws-eks-cluster-with-terraform/)
+* [Introducing Container Labs — Hands on
+Workshop](http://containerlabs.kubedaily.com/)
+* [Docker SDK for Golang
+Series](http://engineitops.com/docker-sdk-for-golang-in-5-sec-part-1/)
+* [LXC — Hands On Workshop](http://containerlabs.kubedaily.com/LXC/)
+* [How To Integrate with Visual Studio Code, Azure Cloud Instance and Docker
+Desktop](http://engineitops.com/how-to-integrate-visual-studio-code-azure-cloud-instance-and-docker-desktop/)
+* [Red Hat Summit April 20: Technical Sessions and Demos](https://medium.com/@shweta.vohra/red-hat-summit-april-20-technical-sessions-and-demos-that-you-should-not-miss-e07d151e8058) - Shweta Vohra
+
+**June Events Recordings :**
+
+* Docker Series — [Part1](https://www.youtube.com/watch?v=U_yntAEIE8U&t=0s),
+[Part2](https://www.youtube.com/watch?v=o7ZA_PAZTnk&t=0s),
+[Part3](https://www.youtube.com/watch?v=L5pupPUS2Uo&t=0s)
+* Flux Query Language —
+[Part1](https://www.youtube.com/watch?v=o7ZA_PAZTnk&t=1993s),
+[Part2](https://www.youtube.com/watch?v=L5pupPUS2Uo&t=2616s)
+* [K9s](https://www.youtube.com/watch?v=U_yntAEIE8U&t=2241s)
+* [Questdb](https://www.youtube.com/watch?v=wjkDbgi_mec&t=0s)
+* [Production grade k8s
+monitoring](https://www.youtube.com/watch?v=hoEfBrfM5ZI&t=0s)
+* Golang — [Heroku + Web
+Development](https://www.youtube.com/watch?v=L5pupPUS2Uo&t=4576s), [docker sdk
+for golang](https://www.youtube.com/watch?v=o7ZA_PAZTnk&t=4944s), [Standard
+Library](https://www.youtube.com/watch?v=U_yntAEIE8U&t=4794s)
+* [Extending Kubernetes with
+Golang](https://www.youtube.com/watch?v=hoEfBrfM5ZI&t=4992s)
+* [Kubernetes Networking](https://www.youtube.com/watch?v=wjkDbgi_mec&t=2760s)
+* [The Tale of Two Engineers and Kubernetes by Stephen Raghunath, New
+York](https://www.youtube.com/watch?v=sXypLc2IuG8)
+* [Improving CI-CD with Chaos
+Engineering](https://www.youtube.com/watch?v=BdyF70TW-x4&t=76s)
+* [Okteto Meetup
+Recording](https://www.youtube.com/channel/UC7iaQyrCjUO6724H7jFzl7g?view_as=subscriber)
+
+<br> 
+
+**Collaboration Links — where community meets and discuss**
+
+* **Collabnix Slack** —
+[Link](https://join.slack.com/t/collabnix/shared_invite/enQtOTMzNDQzODk2Mjg5LWNlNDU2Y2Y3ZTE2MzAyMGUwOGY4NGQ3N2E4ZjY3MjFiYzFhZjlhNWU5NmY1ZTBiM2NkM2U3NmY1N2NmODliMDk)
+* **IoET Planet Slack** —
+[Link](https://join.slack.com/t/ioetplanet/shared_invite/zt-ew8vjlht-PrkfyVf7ElopQ~6gt9d8PA)
+* **KubeDaily Discord** — [Link](https://discord.gg/rEvr7vq)
+* **Containerlabs Discord** — [Link](https://discord.gg/rEvr7vq)
+* **Gopherlabs Discord** — [Link](https://discord.gg/S3GtFvT)
+* **Rustlabs Discord** — [Link](https://discord.gg/aU3yAmF)
+* **Xcloudlabs Discord** — [Link](https://discord.gg/QEcu7yK)
+
+**Workshops to try**
+* [Rust labs For Beginners Workshop
+Track](http://rustlabs.kubedaily.com/Beginners/README.html)
+* [Go workshop track](https://gopherlabs.kubedaily.com/)
+
+**Shoutout to the Community**
+* Kubezilla - Apurva Bhandari, MeenachiSundaram, Anmol Nagpal, Hari Krishna Ganji, Darshan A M
+* OSCONF - Rohini Gaonkar, Nicolas Frankel, Aashish Sharma, Hari Krishna Ganji, Meenachi Sundaram Velmurugan, Gaurav Chaware, Savitha Pareek, Mykola Marzhan, Aman Parauliya, Peeyush Gupta, Arun Ramakani, Vinay Agarwal, Anmol Nagpal, Sujay Pillai, Dijeesh Padinharethil
+* Docker Series - Saloni Narang
+
+Content Tailored by :<br> [Saiyam Pathak](https://twitter.com/SaiyamPathak)<br>
+[Ajeet Singh Raina](https://twitter.com/ajeetsraina)<br> [Sangam
+Biradar](https://linktr.ee/sangambiradar)
+
+<br> 
+
