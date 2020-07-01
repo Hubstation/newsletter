@@ -14,6 +14,14 @@ layout: default
   {% include tags_list.html tags=page.tags tag_count=page.tags.size %}
 </article>
 
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/Hubstation/newsletter/"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 <!-- Disqus -->
 {% if site.theme_settings.disqus_shortname %}
 <div class="comments">
