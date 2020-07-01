@@ -6,7 +6,7 @@ url: "https://hubstation.github.io/"
 theme_settings:
   # Meta
   title: Hubstation
-  avatar: assets/img/avatar.png
+  avatar: assets/img/logohubstation.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "Welcome to HubStation Newsletter " # used by search engines
