@@ -1,8 +1,4 @@
----
-layout: post
-title: August 2020 - Hubstation Newsletter 
-tags: [August, Hubstation]
----
+
 
 ![](https://raw.githubusercontent.com/Hubstation/newsletter/master/assets/img/August.png)
 
