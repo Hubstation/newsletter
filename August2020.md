@@ -16,7 +16,7 @@ It Includes all cool stuff happened in the month of AUGUST in the cloud-native s
 **Channels to subscribe for latest in cloud-native space:**
 * [Coffee and Cloud Native with Adrian Goins](https://www.youtube.com/adriangoins)
 * [Let's Learn with Saiyam and community](https://youtube.com/saiyampathak)
-* 
+* [Docker & Kubernetes Explained Under 15 min](https://www.youtube.com/playlist?list=PLy7NrYWoggjw0OMxUDIImjWQjM7qZWn_R)
 
 **Blogs by Community:**
 * [Graceful shutdown and zero downtime deployments in Kubernetes](https://learnk8s.io/graceful-shutdown) - Daniele Polencic
