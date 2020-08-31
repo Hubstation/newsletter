@@ -7,31 +7,41 @@
 This is the Third edition of Hubstation newsletter by the community for the community.
 It Includes all cool stuff happened in the month of AUGUST in the cloud-native space.
 
-**JULY Tech UPDATES :**
-*
-
+**AUGUST Tech UPDATES :**
+* [Kubernetes 1.19 What's New?](https://www.magalix.com/blog/kubernetes-1.19-whats-new)
+* [What’s new in Istio 1.5? New Features and Capabilities](https://www.stackrox.com/post/2020/03/whats-new-in-istio-1.5-new-features-and-capabilities/)
+* [ New Case Studies About Google’s Use of Go ](https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html)
+* [ Recapping major improvements in Go 1.15 and bringing the Go community together](https://opensource.googleblog.com/2020/08/recapping-major-improvements-in-go-115.html)
 
 **Channels to subscribe for latest in cloud-native space:**
 * [Coffee and Cloud Native with Adrian Goins](https://www.youtube.com/adriangoins)
 * [Let's Learn with Saiyam and community](https://youtube.com/saiyampathak)
-* 
+* [Docker & Kubernetes Explained Under 15 min](https://www.youtube.com/playlist?list=PLy7NrYWoggjw0OMxUDIImjWQjM7qZWn_R)
 
 **Blogs by Community:**
 * [Graceful shutdown and zero downtime deployments in Kubernetes](https://learnk8s.io/graceful-shutdown) - Daniele Polencic
 * [Let us take a dig into Kubevious](https://medium.com/@SaiyamPathak/let-us-take-a-dig-into-kubevious-66922aa322da) - Saiyam Pathak
 * [Monitoring k3s with the Prometheus Operator and Custom Email Alerts](https://www.civo.com/learn/monitoring-k3s-with-the-prometheus-operator-and-custom-email-alerts) - Sam Weston
+* [Chaos Engineering with Litmus and okteto Cloud](https://okteto.com/blog/chaos-engineering-with-litmus/)- [Ramiro Berrelleza](https://twitter.com/rberrelleza)
 * [Hey Docker run EKS, with Auto Fleet Spotting Support, please!](https://blog.kubernauts.io/hey-docker-run-eks-with-auto-fleet-spotting-support-please-f91fcc80c60e) - Arash
 * [From 1 to 4500: A Close Look at Collabnix Slack Journey](https://collabnix.com/from-1-to-4500-a-look-at-collabnix-slack-journey/) - Ajeet Singh Raina
+* [how to run redis cluster in okteto cloud](https://medium.com/@sangambiradar/redis-cluster-on-okteto-cloud-abaf6d0db786)- [Sangam Biradar](https://twitter.com/BiradarSangam)
 * [Deploy your AWS EKS cluster with Terraform in 5 Minutes](https://collabnix.com/deploy-your-aws-eks-cluster-with-terraform-in-5-minutes/) - Ajeet Singh Raina
+* [Docker Fundamental](https://containerlabs.kubedaily.com/Docker/Overview/) - [Sangam Biradar](https://twitter.com/BiradarSangam)
 * [How Redis Enterprise Cloud Meets the Needs of Maturing Enterprise Customers on AWS](https://redislabs.com/blog/top-5-reasons-to-choose-redis-enterprise-cloud-over-amazon-elasticache/) - Ajeet Singh Raina
 * [6 Key Features to Consider When Choosing a DBaaS Provider](https://redislabs.com/blog/6-key-features-to-consider-when-choosing-a-dbaas-provider/) - Ajeet Singh Raina
 
 **Podcasts**
-*
+
+* [context.Context with Francesc Campoy,Isobel Redelmeier,Mat Ryer,Jaana Dogan](https://changelog.com/gotime/143)
+* [Kubernetes 1.19, with Taylor Dolezal](https://kubernetespodcast.com/episode/118-kubernetes-1.19/)
+* [Independent Open Source, with Alex Ellis](https://kubernetespodcast.com/episode/116-independent-open-source/)
+* [Linux Kernel Development with Shuah Khan](https://softwareengineeringdaily.com/2019/03/14/linux-kernel-development-with-shuah-khan/)
 
 **AUGUST Events Recordings :**
 * [Awesome Serverless using Google Cloud Run](https://youtu.be/RYLDORG8aBw) - [Saiyam Pathak](https://twitter.com/saiyampathak)
 * [Docker Playlist](https://youtu.be/nrBwWPGrF6w) - [Saloni Narang](https://twitter.com/I_saloni92)
+* [Okteto For Kubernetes Developer TAC2020](https://youtu.be/v10MwTwol-E)- [Sangam Biradar](https://twitter.com/BiradarSangam)
 * [Panel Discussion on KubeLabs | OSCONF 2020](https://www.youtube.com/watch?v=o8cV6U_L_T4&t=131s) - [Collabnix](https://twitter.com/collabnix)
 * [A New Era of .Net Core Deployment using Azure Devops Starter by Menaka Priyadharshini Baskar](https://www.youtube.com/watch?v=p511GU-w8Js&t=45s) - [Collabnix](https://twitter.com/collabnix)
 * [Automating Infrastructure with Kubernetes and Microservices Using Terraform | Aditya Soni ](https://www.youtube.com/watch?v=3xFlnAyPkas&t=154s) - [Collabnix](https://twitter.com/collabnix)
@@ -58,6 +68,7 @@ It Includes all cool stuff happened in the month of AUGUST in the cloud-native s
 
 **Tools/Repositories to Try**
 * [Redis Developer Tools & Datasets](https://github.com/Redis-Developer/redis-datasets)
+* [100+ Hands-on Labs For Rust Developer](https://rustlabs.kubedaily.com/Beginners/README.html)
 
 **Collaboration Links — where community meets and discuss**
 * **Collabnix Slack** —
