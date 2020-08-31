@@ -8,10 +8,16 @@ This is the Third edition of Hubstation newsletter by the community for the comm
 It Includes all cool stuff happened in the month of AUGUST in the cloud-native space.
 
 **AUGUST Tech UPDATES :**
-* [Kubernetes 1.19 What's New?](https://www.magalix.com/blog/kubernetes-1.19-whats-new)
+* [k3s Accepted as CNCF Sandbox Project](https://www.forbes.com/sites/janakirammsv/2020/08/28/why-is-the-open-source-community-excited-about-k3s-project-joining-cncf/#b0a87c143609)
+* [Thanoss enters CNCF incubation](https://www.cncf.io/blog/2020/08/19/toc-approves-thanos-from-sandbox-to-incubation/)
+* [TOC welcomes Cortex as an incubating project](https://www.cncf.io/blog/2020/08/20/toc-welcomes-cortex-as-an-incubating-project/)
+* [Kubernetes 1.19 What's New?](https://kubernetes.io/blog/2020/08/26/kubernetes-release-1.19-accentuate-the-paw-sitive/)
 * [What’s new in Istio 1.5? New Features and Capabilities](https://www.stackrox.com/post/2020/03/whats-new-in-istio-1.5-new-features-and-capabilities/)
 * [ New Case Studies About Google’s Use of Go ](https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html)
 * [ Recapping major improvements in Go 1.15 and bringing the Go community together](https://opensource.googleblog.com/2020/08/recapping-major-improvements-in-go-115.html)
+* [Gitpod is now Open Source](https://www.gitpod.io/blog/opensource/)
+* [Octant: the OSS UI for Jenkins X](https://jenkins-x.io/blog/2020/08/06/octant-jx/)
+* [Introducing Open Service Mesh](https://openservicemesh.io/blog/introducing-open-service-mesh/)
 
 **Channels to subscribe for latest in cloud-native space:**
 * [Coffee and Cloud Native with Adrian Goins](https://www.youtube.com/adriangoins)
@@ -30,6 +36,8 @@ It Includes all cool stuff happened in the month of AUGUST in the cloud-native s
 * [Docker Fundamental](https://containerlabs.kubedaily.com/Docker/Overview/) - [Sangam Biradar](https://twitter.com/BiradarSangam)
 * [How Redis Enterprise Cloud Meets the Needs of Maturing Enterprise Customers on AWS](https://redislabs.com/blog/top-5-reasons-to-choose-redis-enterprise-cloud-over-amazon-elasticache/) - Ajeet Singh Raina
 * [6 Key Features to Consider When Choosing a DBaaS Provider](https://redislabs.com/blog/6-key-features-to-consider-when-choosing-a-dbaas-provider/) - Ajeet Singh Raina
+* [Upgrade a K3s Kubernetes Cluster with System Upgrade Controller](https://rancher.com/blog/2020/upgrade-k3s-kubernetes-cluster-system-upgrade-controller) - Saiyam Pathak
+* Portainer 2.0(https://medium.com/@SaiyamPathak/portainer-2-0-7d5539e344f) - Saiyam Pathak
 
 **Podcasts**
 
@@ -53,10 +61,10 @@ It Includes all cool stuff happened in the month of AUGUST in the cloud-native s
 * [Testing your Kubernetes platform before & after upgrades through GitOps | Uma Mukkara ](https://www.youtube.com/watch?v=m3BSZTw9iXA&t=75s) - [Collabnix](https://twitter.com/collabnix)
 * [Building Microservices on Kubernetes using Envoy Proxy & Istio | Prashansa Kulshrestha ](https://www.youtube.com/watch?v=m4nfceVYssU&t=6s) - [Collabnix](https://twitter.com/collabnix)
 * [Getting Started with RedisInsight - A FREE Robust GUI Tool to Monitor Redis Data | Docker](https://www.youtube.com/watch?v=VqPdHngkz1I&t=558s) - [Collabnix](https://twitter.com/collabnix)
+* [Let's Learn about Getting involved with Open Source in different ways](https://youtu.be/y-BXs_MQA9Y) - [Saiyam Pathak](https://twitter.com/saiyampathak)
 
 
 **UPCOMING Events**
-* [Let's Learn about Getting involved with Open Source in different ways](https://youtu.be/y-BXs_MQA9Y) - [Saiyam Pathak](https://twitter.com/saiyampathak)
 * [Let's Learn Traefik](https://youtu.be/uUZ2RBZGZK4) - [Saiyam Pathak](https://twitter.com/saiyampathak)
 * [Let's Learn Kubermatic Kubernetes Platform](https://youtu.be/4jvKSe1Lkv8) - [Saiyam Pathak](https://twitter.com/saiyampathak)
 * [OSCONF Conference 2020 Jaipur](https://www.youtube.com/watch?v=RVToPqD5VIA) - [Collabnix](https://twitter.com/collabnix)
@@ -69,6 +77,8 @@ It Includes all cool stuff happened in the month of AUGUST in the cloud-native s
 **Tools/Repositories to Try**
 * [Redis Developer Tools & Datasets](https://github.com/Redis-Developer/redis-datasets)
 * [100+ Hands-on Labs For Rust Developer](https://rustlabs.kubedaily.com/Beginners/README.html)
+* [Kip](https://github.com/elotl/kip)
+* [Kubevious](https://github.com/kubevious/kubevious)
 
 **Collaboration Links — where community meets and discuss**
 * **Collabnix Slack** —
