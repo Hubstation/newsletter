@@ -62,7 +62,7 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [Civo Marketplace](https://github.com/civo/kubernetes-marketplace)
 * [Challenges](https://github.com/Hubstation/challenges)
 * [Cruster](https://cruster.io/)
-* Kubernetes YAML Generator (https://k8syaml.com/)
+* [Kubernetes YAML Generator](https://k8syaml.com/)
 
 **Collaboration Links — where community meets and discuss**
 * **Collabnix Slack** —
