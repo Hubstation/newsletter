@@ -55,7 +55,6 @@ A new initiative for the communitry, This year we are coming with new Challenges
 
 **UPCOMING Events**
 * [OSCONF Conference 2020 Jaipur](https://www.youtube.com/watch?v=RVToPqD5VIA) - [Collabnix](https://twitter.com/collabnix)
-* [Docker Jaipur](https://events.docker.com/events/details/docker-jaipur-presents-osconf-jaipur/#/) 
 
 **Learn from Twitter**
 * [How Does Scheduler works in Kubernetes](https://twitter.com/danielepolencic/status/1309090938673868801?s=20)
