@@ -40,12 +40,17 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [5 Minutes to Kubernetes Architecture](https://collabnix.com/5-minutes-to-kubernetes-architecture/) - by Ajeet Singh Raina
 * [Running Minecraft Server on NVIDIA Jetson Nano using Docker](https://www.linkedin.com/pulse/running-minecraft-server-jetson-nano-using-docker-ajeet-singh-raina/?published=t) - by Ajeet Singh Raina
 * [5 Reasons why you should attend ARM Dev Summit 2020](https://collabnix.com/5-reasons-to-attend-arm-dev-summit-2020/) - by Ajeet Singh Raina
-
+* [Okteto Hacktoberfest 2020 ](https://okteto.com/blog/hacktoberfest-2020/)
+* [Private Endpoints for your Applications](https://okteto.com/blog/private-endpoints-for-your-applications/) - by Ramiro Berrelleza
+* [Birth Of Containerization ](https://containerlabs.kubedaily.com/Birth_of_Containerization/README.html) by Sangam Biradar
+* [How Okteto Works?](https://containerlabs.kubedaily.com/Okteto/intro-okteto.html) by Sangam Biradar
 
 **Podcasts**
 
 * [The Journey of a Docker Captain](https://www.listennotes.com/podcasts/the-techloop-podcast/ep02-ajeet-singh-raina-the-5wofVLvl6qd/) - Ajeet Singh Raina & Tech Loop Podcast
-
+* [Keptn, with Alois Reitbauer](https://kubernetespodcast.com/episode/119-keptn/)
+* [Airbnb, with Melanie Cebula](https://kubernetespodcast.com/episode/120-airbnb/)
+* [Robotic Process Automation with Antti Karjalainen](https://softwareengineeringdaily.com/2020/09/04/robotic-process-automation-with-antti-karjalainen/)
 
 **AUGUST Events Recordings :**
 * [Let's Learn Kubernetes Security](https://youtu.be/VjlvS-qiz_U) - Saiyam Pathak and Dan POP
@@ -69,6 +74,7 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [Civo Marketplace](https://github.com/civo/kubernetes-marketplace)
 * [Challenges](https://github.com/Hubstation/challenges)
 * [Cruster](https://cruster.io/)
+* [Kapp](https://get-kapp.io/)
 * [Kubernetes YAML Generator](https://k8syaml.com/)
 * [A Curated List of Sample Redis Datasets](https://github.com/Redis-Developer/redis-datasets)
 * [IoET - Internet of Every Thing](https://github.com/collabnix/ioetplanet)
