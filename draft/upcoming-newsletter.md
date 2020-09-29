@@ -36,8 +36,15 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [Kubernetes: When to Use, and When to Avoid, the Operator Pattern](https://thenewstack.io/kubernetes-when-to-use-and-when-to-avoid-the-operator-pattern/) - by Mary Branscombe
 * [Tutorial: Configure Cloud Native Edge Infrastructure with K3s, Calico, Portworx](https://thenewstack.io/tutorial-configure-cloud-native-edge-infrastructure-with-k3s-calico-portworx/) - by Janakiram MSV
 * [How K3s, Portworx, and Calico Can Serve as a Foundation of Cloud Native Edge Infrastructure](https://thenewstack.io/how-k3s-portworx-and-calico-can-serve-as-a-foundation-of-cloud-native-edge-infrastructure/) - by Janakiram MSV
+* [Running Docker Compose on NVIDIA Jetson Nano in 5 Minutes](https://collabnix.com/running-docker-compose-on-nvidia-jetson-nano-in-5-minutes/) - by Ajeet Singh Raina
+* [5 Minutes to Kubernetes Architecture](https://collabnix.com/5-minutes-to-kubernetes-architecture/) - by Ajeet Singh Raina
+* [Running Minecraft Server on NVIDIA Jetson Nano using Docker](https://www.linkedin.com/pulse/running-minecraft-server-jetson-nano-using-docker-ajeet-singh-raina/?published=t) - by Ajeet Singh Raina
+* [5 Reasons why you should attend ARM Dev Summit 2020](https://collabnix.com/5-reasons-to-attend-arm-dev-summit-2020/) - by Ajeet Singh Raina
+
 
 **Podcasts**
+
+* [The Journey of a Docker Captain](https://www.listennotes.com/podcasts/the-techloop-podcast/ep02-ajeet-singh-raina-the-5wofVLvl6qd/) - Ajeet Singh Raina & Tech Loop Podcast
 
 
 **AUGUST Events Recordings :**
@@ -48,6 +55,7 @@ A new initiative for the communitry, This year we are coming with new Challenges
 
 **UPCOMING Events**
 * [OSCONF Conference 2020 Jaipur](https://www.youtube.com/watch?v=RVToPqD5VIA) - [Collabnix](https://twitter.com/collabnix)
+* [Docker Jaipur](https://events.docker.com/events/details/docker-jaipur-presents-osconf-jaipur/#/) 
 
 **Learn from Twitter**
 * [How Does Scheduler works in Kubernetes](https://twitter.com/danielepolencic/status/1309090938673868801?s=20)
@@ -63,19 +71,21 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [Challenges](https://github.com/Hubstation/challenges)
 * [Cruster](https://cruster.io/)
 * [Kubernetes YAML Generator](https://k8syaml.com/)
+* [A Curated List of Sample Redis Datasets](https://github.com/Redis-Developer/redis-datasets)
+* [IoET - Internet of Every Thing](https://github.com/collabnix/ioetplanet)
 
 **Collaboration Links — where community meets and discuss**
 * **Collabnix Slack** —
 [Link](https://launchpass.com/collabnix)
 * **IoET Planet Slack** —
-[Link](https://join.slack.com/t/ioetplanet/shared_invite/zt-ew8vjlht-PrkfyVf7ElopQ~6gt9d8PA)
+[Link](https://launchpass.com/ioetplanet)
 * **KubeDaily Discord** — [Link](https://discord.gg/rEvr7vq)
 * **Containerlabs Discord** — [Link](https://discord.gg/rEvr7vq)
 * **Gopherlabs Discord** — [Link](https://discord.gg/S3GtFvT)
 * **Rustlabs Discord** — [Link](https://discord.gg/aU3yAmF)
 * **Xcloudlabs Discord** — [Link](https://discord.gg/QEcu7yK)
 * **Javalabs Discord** — [Link](https://discord.gg/UJjFhAE)
-* **New Redis Open Community Slack** - [Link](https://launchpass.com/rediscommunity)
+
 
 
 Content Tailored by :<br> [Saiyam Pathak](https://twitter.com/SaiyamPathak)<br>
