@@ -30,7 +30,7 @@ A new initiative for the community, This year we are coming with new Challenges 
 
 
 **Channels to subscribe for latest in cloud-native space:**
-* [The POPCAST with DanPOP](youtube.com/c/ThePOPCASTPOP)
+* [The POPCAST with DanPOP](https://youtube.com/c/ThePOPCASTPOP)
 * [Let's Learn with Saiyam and community](https://youtube.com/saiyam911)
 * [RawKode Live](https://www.youtube.com/c/Rawkode/)
 
