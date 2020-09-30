@@ -17,6 +17,7 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [KubeEdge moves to CNCF Incubating project](https://www.cncf.io/blog/2020/09/16/toc-approves-kubeedge-as-incubating-project/)
 * [Technology Radar -> Observability, September 2020](https://radar.cncf.io/2020-09-observability)
 * [Serverless on Kubernetes - new course](https://www.cncf.io/blog/2020/09/10/new-free-training-course-teaches-fundamentals-of-serverless-on-kubernetes/)
+* [Porter Has Joined the CNCF as a Sandbox Project](https://porter.sh/blog/cncf/)
 
 
 **Channels to subscribe for latest in cloud-native space:**
@@ -44,6 +45,8 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [Private Endpoints for your Applications](https://okteto.com/blog/private-endpoints-for-your-applications/) - by Ramiro Berrelleza
 * [Birth Of Containerization ](https://containerlabs.kubedaily.com/Birth_of_Containerization/README.html) by Sangam Biradar
 * [How Okteto Works?](https://containerlabs.kubedaily.com/Okteto/intro-okteto.html) by Sangam Biradar
+* [Manage Kubernetes clusters using the Civo Pulumi provider](https://www.civo.com/learn/kubernetes-clusters-using-the-civo-pulumi-provider)
+* 
 
 **Podcasts**
 
@@ -61,6 +64,9 @@ A new initiative for the communitry, This year we are coming with new Challenges
 **UPCOMING Events**
 * [OSCONF Conference 2020 Jaipur](https://www.youtube.com/watch?v=RVToPqD5VIA) - [Collabnix](https://twitter.com/collabnix)
 * [Okteto Hacktoberfest 2020](https://www.meetup.com/Okteto-Bangalore/events/273600888/)
+* [Let's Learn Okteto and Kubebuilder](https://youtu.be/FT_DLEhmOWs)badidea
+* [Flux training - Paid](https://www.influxdays.com/virtual-experience-2020/flux-training/?utm_campaign=influxdays&utm_medium=social&utm_source=aces&utm_content=saiyampathak)
+* [Influx days Virtual Event](https://www.influxdays.com/virtual-experience-2020/register-virtual-conference/?utm_campaign=influxdays&utm_medium=social&utm_source=aces&utm_content=saiyampathak)
 
 **Learn from Twitter**
 * [How Does Scheduler works in Kubernetes](https://twitter.com/danielepolencic/status/1309090938673868801?s=20)
@@ -79,6 +85,7 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [Kubernetes YAML Generator](https://k8syaml.com/)
 * [A Curated List of Sample Redis Datasets](https://github.com/Redis-Developer/redis-datasets)
 * [IoET - Internet of Every Thing](https://github.com/collabnix/ioetplanet)
+* [Minimal embeddable Kubernetes-style apiserver that supports CustomResourceDefitions](https://github.com/thetirefire/badidea)
 
 **Collaboration Links — where community meets and discuss**
 * **Collabnix Slack** —
