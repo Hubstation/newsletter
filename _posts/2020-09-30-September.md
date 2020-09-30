@@ -14,7 +14,7 @@ This is the Fourth edition of Hubstation newsletter by the community for the com
 It Includes all cool stuff happened in the month of Spetember(2020) in the cloud-native space.
 
 **HACTOBERFEST UPDATE**
-A new initiative for the communitry, This year we are coming with new Challenges for and by the Community where you can contribute challenges and solutions for the community and other can start solving them and PR their solutions. The event for this repo is listed under official [Digital Ocean Hactoberfest Events Page](https://organize.mlh.io/participants/events/4454-hactoberfest-challenges-for-all). So Start Contributing to ->
+A new initiative for the community, This year we are coming with new Challenges for and by the Community where you can contribute challenges and solutions for the community and other can start solving them and PR their solutions. The event for this repo is listed under official [Digital Ocean Hactoberfest Events Page](https://organize.mlh.io/participants/events/4454-hactoberfest-challenges-for-all). So Start Contributing to ->
 [This Repository](https://github.com/Hubstation/challenges)
 
 **SEPTEMBER Tech UPDATES :**
