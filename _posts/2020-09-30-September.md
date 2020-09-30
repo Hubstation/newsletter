@@ -3,9 +3,12 @@ layout: post
 title: September 2020 - Hubstation Newsletter 
 tags: [Sept, Hubstation]
 ---
+
+
+
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fhubstation.github.io%2Fnewsletter%2F2020%2F09%2F30%2FSeptember.html) 
-<br>
-<br>                     
+
+
 ![](https://raw.githubusercontent.com/Hubstation/newsletter/master/assets/img/September.png) <br>
 
 **Newsletter** — SEPTEMBER 2020
