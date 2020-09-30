@@ -52,10 +52,9 @@ A new initiative for the community, This year we are coming with new Challenges 
 * [Birth Of Containerization ](https://containerlabs.kubedaily.com/Birth_of_Containerization/README.html) by Sangam Biradar
 * [How Okteto Works?](https://containerlabs.kubedaily.com/Okteto/intro-okteto.html) by Sangam Biradar
 * [Manage Kubernetes clusters using the Civo Pulumi provider](https://www.civo.com/learn/kubernetes-clusters-using-the-civo-pulumi-provider)
-* 
+
 
 **Podcasts**
-
 * [The Journey of a Docker Captain](https://www.listennotes.com/podcasts/the-techloop-podcast/ep02-ajeet-singh-raina-the-5wofVLvl6qd/) - Ajeet Singh Raina & Tech Loop Podcast
 * [Keptn, with Alois Reitbauer](https://kubernetespodcast.com/episode/119-keptn/)
 * [Airbnb, with Melanie Cebula](https://kubernetespodcast.com/episode/120-airbnb/)
@@ -70,7 +69,7 @@ A new initiative for the community, This year we are coming with new Challenges 
 **UPCOMING Events**
 * [OSCONF Conference 2020 Jaipur](https://www.youtube.com/watch?v=RVToPqD5VIA) - [Collabnix](https://twitter.com/collabnix)
 * [Okteto Hacktoberfest 2020](https://www.meetup.com/Okteto-Bangalore/events/273600888/)
-* [Let's Learn Okteto and Kubebuilder](https://youtu.be/FT_DLEhmOWs)badidea
+* [Let's Learn Okteto and Kubebuilder](https://youtu.be/FT_DLEhmOWs)
 * [Flux training - Paid](https://www.influxdays.com/virtual-experience-2020/flux-training/?utm_campaign=influxdays&utm_medium=social&utm_source=aces&utm_content=saiyampathak)
 * [Influx days Virtual Event](https://www.influxdays.com/virtual-experience-2020/register-virtual-conference/?utm_campaign=influxdays&utm_medium=social&utm_source=aces&utm_content=saiyampathak)
 
