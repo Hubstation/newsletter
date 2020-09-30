@@ -51,7 +51,8 @@ A new initiative for the community, This year we are coming with new Challenges 
 * [Private Endpoints for your Applications](https://okteto.com/blog/private-endpoints-for-your-applications/) - by Ramiro Berrelleza
 * [Birth Of Containerization ](https://containerlabs.kubedaily.com/Birth_of_Containerization/README.html) by Sangam Biradar
 * [How Okteto Works?](https://containerlabs.kubedaily.com/Okteto/intro-okteto.html) by Sangam Biradar
-* [Manage Kubernetes clusters using the Civo Pulumi provider](https://www.civo.com/learn/kubernetes-clusters-using-the-civo-pulumi-provider)
+* [Manage Kubernetes clusters using the Civo Pulumi provider](https://www.civo.com/learn/kubernetes-clusters-using-the-civo-pulumi-provider) - by Zsolt Homorodi
+* [From beta tester, to building the next-gen Civo platform](https://www.civo.com/blog/from-beta-tester-to-building-the-next-gen-civo-platform) - by David Fogle
 
 
 **Podcasts**
@@ -72,6 +73,7 @@ A new initiative for the community, This year we are coming with new Challenges 
 * [Let's Learn Okteto and Kubebuilder](https://youtu.be/FT_DLEhmOWs)
 * [Flux training - Paid](https://www.influxdays.com/virtual-experience-2020/flux-training/?utm_campaign=influxdays&utm_medium=social&utm_source=aces&utm_content=saiyampathak)
 * [Influx days Virtual Event](https://www.influxdays.com/virtual-experience-2020/register-virtual-conference/?utm_campaign=influxdays&utm_medium=social&utm_source=aces&utm_content=saiyampathak)
+* [KiKoK: Kubernetes in Kubernetes on Kubernautic with K3s](https://www.meetup.com/kubernauts/events/273234449/)
 
 **Learn from Twitter**
 * [How Does Scheduler works in Kubernetes](https://twitter.com/danielepolencic/status/1309090938673868801?s=20)
