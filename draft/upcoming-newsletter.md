@@ -31,15 +31,13 @@ A new initiative for the communitry, This year we are coming with new Challenges
 
 
 **Blogs by Community:**
-* 
-*
-*
-*
-*
-* 
-* 
-*
-*
+* [Waypoint - Solving the Build, Deploy and Release problem](https://www.civo.com/learn/waypoint-solving-the-build-deploy-and-release-problem) by Saiyam Pathak 
+* [Running Kubeflow Pipelines](https://www.civo.com/learn/running-kubeflow-pipelines) by Saiyam Pathak
+* [Introducing 2GB NVIDIA Jetson Nano: An Affordable Yet Powerful $59 AI Computer](https://collabnix.com/2gb-nvidia-jetson-nano-59-ai-computer/) by Ajeet Singh Raina
+* [Provisioning Kubernetes clusters on AWS with Terraform and EKS](https://learnk8s.io/terraform-eks)by Kristijan M.
+* [Container networking is simple](https://iximiuz.com/en/posts/container-networking-is-simple/) by Ivan Velichko
+* [ HashiCorp Preps Nomad 1.0 Alternative to Kubernetes](https://containerjournal.com/topics/container-management/hashicorp-preps-nomad-1-0-alternative-to-kubernetes/)
+
 
 
 **Podcasts**
