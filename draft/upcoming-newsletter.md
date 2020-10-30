@@ -15,9 +15,9 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [CNCF Cloud Native Survey China 201](https://www.cncf.io/blog/2020/10/13/cncf-cloud-native-survey-china-2019/)
 * [Cloud Native Computing Foundation Announces Rook Graduation ](https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/)
 * [ Service Mesh Is Still Hard ](https://www.cncf.io/blog/2020/10/26/service-mesh-is-still-hard/) By Lin Sun
+* [Docker V2 Github Action is Now GA](https://www.docker.com/blog/docker-v2-github-action-is-now-ga/)
+* [Setting Up Cloud Deployments Using Docker, Azure and Github Actions](https://www.docker.com/blog/setting-up-cloud-deployments-using-docker-azure-and-github-actions/)
 * 
-*
-*
 *
 *
 
@@ -40,6 +40,11 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [ HashiCorp Preps Nomad 1.0 Alternative to Kubernetes](https://containerjournal.com/topics/container-management/hashicorp-preps-nomad-1-0-alternative-to-kubernetes/)
 * [Top 5 Reasons Why RedisInsight Is a Perfect Tool for Redis Developers](https://redislabs.com/blog/top-5-reasons-why-redisinsight-is-a-perfect-tool-for-redis-developers/) by Ajeet Singh Raina
 
+
+**Presentation Slides
+
+* [Real time Object Detection and Analytics using RedisEdge and Docker](https://www.slideshare.net/ajeetraina/real-time-object-detection-and-analytics-using-redisedge-and-docker)
+* [Quantifying Your World with AI & Docker on the Edge | OSCONF 2020 Jaipur](https://www.slideshare.net/ajeetraina/quantifying-your-world-with-ai-docker-on-the-edge-osconf-2020-jaipur)
 
 **Podcasts**
 
