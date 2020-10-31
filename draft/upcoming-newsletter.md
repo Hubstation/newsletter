@@ -7,19 +7,18 @@
 This is the 5th edition of Hubstation newsletter by the community for the community.
 It Includes all cool stuff happened in the month of october(2020) in the cloud-native space.
 
-**HACTOBERFEST UPDATE- Repo will continue for contributions**
+**HACTOBERFEST UPDATE**
 A new initiative for the communitry, This year we are coming with new Challenges for and by the Community where you can contribute challenges and solutions for the community and other can start solving them and PR their solutions. The event for this repo is listed under official [Digital Ocean Hactoberfest Events Page](https://organize.mlh.io/participants/events/4454-hactoberfest-challenges-for-all). So Start Contributing to ->
 [This Repository](https://github.com/Hubstation/challenges)
 
 **October Tech UPDATES :**
-* [Register for CNCF Kubecon NA](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/?utm_source=Google&utm_medium=search_global&utm_campaign=KC_CNC_NA&gclid=Cj0KCQjwlvT8BRDeARIsAACRFiX_YEftfjxDTmP7pMbjNUUqsYN2c4QgUcaKtC_4Wj8mGdRo5gguk5QaAjt5EALw_wcB)
 * [CNCF Cloud Native Survey China 201](https://www.cncf.io/blog/2020/10/13/cncf-cloud-native-survey-china-2019/)
 * [Cloud Native Computing Foundation Announces Rook Graduation ](https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/)
 * [ Service Mesh Is Still Hard ](https://www.cncf.io/blog/2020/10/26/service-mesh-is-still-hard/) By Lin Sun
 * [Docker V2 Github Action is Now GA](https://www.docker.com/blog/docker-v2-github-action-is-now-ga/)
 * [Setting Up Cloud Deployments Using Docker, Azure and Github Actions](https://www.docker.com/blog/setting-up-cloud-deployments-using-docker-azure-and-github-actions/)
-* [Announcing Akri, an open source project for building a connected edge with Kubernetes](https://cloudblogs.microsoft.com/opensource/2020/10/20/announcing-akri-open-source-project-building-connected-edge-kubernetes/)
-* [Promscale: An analytical platform and long-term store for Prometheus, with the combined power of SQL and PromQL](https://blog.timescale.com/blog/promscale-analytical-platform-long-term-store-for-prometheus-combined-sql-promql-postgresql/?utm_source=timescaledb&utm_medium=social&utm_campaign=promscale-2020&utm_content=announcement-blog) by Matvey Arye, Joshua Lockerman and Harkishen Singh
+* [What you need to know about upcoming Docker Hub rate limiting](https://www.docker.com/blog/what-you-need-to-know-about-upcoming-docker-hub-rate-limiting/)
+
 
 
 
@@ -29,58 +28,42 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [Let's Learn with Saiyam and community](https://youtube.com/saiyam911)
 * [ Network Direction](https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A)
 * [Collabnix YouTube Channel](https://www.youtube.com/c/Collabnix)
-* [The PopCast with Dan POP](https://www.youtube.com/user/tonyladdie)
-* [Cloud native with Rawkode](https://www.youtube.com/c/rawkode)
-* [Learn with Civo](https://www.youtube.com/channel/UCZD2ggK3cnVD_sLMR6gUx2w)
 
 
 **Blogs by Community:**
 * [Waypoint - Solving the Build, Deploy and Release problem](https://www.civo.com/learn/waypoint-solving-the-build-deploy-and-release-problem) by Saiyam Pathak 
 * [Running Kubeflow Pipelines](https://www.civo.com/learn/running-kubeflow-pipelines) by Saiyam Pathak
-* [Ensuring YAML best practices using KubeLinter](https://www.civo.com/learn/yaml-best-practices-using-kubelinter) by Saiyam Pathak
-* [Running Falco and k3s at the edge with 64-bit ARM](https://blog.alexellis.io/falco-at-the-edge-arm64/) by Dan Papandrea
 * [Introducing 2GB NVIDIA Jetson Nano: An Affordable Yet Powerful $59 AI Computer](https://collabnix.com/2gb-nvidia-jetson-nano-59-ai-computer/) by Ajeet Singh Raina
-* [Provisioning Kubernetes clusters on AWS with Terraform and EKS](https://learnk8s.io/terraform-eks) by Kristijan M.
+* [Provisioning Kubernetes clusters on AWS with Terraform and EKS](https://learnk8s.io/terraform-eks)by Kristijan M.
 * [Container networking is simple](https://iximiuz.com/en/posts/container-networking-is-simple/) by Ivan Velichko
 * [ HashiCorp Preps Nomad 1.0 Alternative to Kubernetes](https://containerjournal.com/topics/container-management/hashicorp-preps-nomad-1-0-alternative-to-kubernetes/)
 * [Top 5 Reasons Why RedisInsight Is a Perfect Tool for Redis Developers](https://redislabs.com/blog/top-5-reasons-why-redisinsight-is-a-perfect-tool-for-redis-developers/) by Ajeet Singh Raina
-* [Managing multiple clusters with ArgoCD on k3s running in Azure and secured by Traefik and Let’s Encrypt](https://medium.com/cooking-with-azure/managing-multiple-clusters-with-argocd-in-azure-k3s-secured-w-traefik-lets-encrypt-2de7daabbefa) by Alessandro Vozza
-* [K3s + Sysdig: Deploying and securing your cluster… in less than 8 minutes!](https://sysdig.com/blog/k3s-sysdig-falco/) by Dan Papandrea
-* [Raft Is So Fetch: The Raft Consensus Algorithm Explained Through Mean Girls](https://www.cockroachlabs.com/blog/raft-is-so-fetch/) by Mikael Austin 
-* [Web scraping that just works with OpenFaaS with Puppeteer](https://www.openfaas.com/blog/puppeteer-scraping/) by Alex Ellis
-* [Build and deploy OpenFaaS functions with GitHub Actions](https://www.openfaas.com/blog/openfaas-functions-with-github-actions/) by Kumar Utsav Anand
-* [Open source gravitates to outer space](https://developer.ibm.com/blogs/open-source-gravitates-to-outer-space/) by Naeem Altaf, Colin Alstad, Minsik Lee
-* [Introduction to Thanos!](https://dev.to/mritunjay394/introduction-to-thanos-57i5) by Mritunjay Sharma
-* [Level up your shell history with Loki and fzf](https://opensource.com/article/20/10/shell-history-loki-fzf) by  Ed Welch Feed
+
+
+**Presentation Slides
+
+* [Real time Object Detection and Analytics using RedisEdge and Docker](https://www.slideshare.net/ajeetraina/real-time-object-detection-and-analytics-using-redisedge-and-docker)
+* [Quantifying Your World with AI & Docker on the Edge | OSCONF 2020 Jaipur](https://www.slideshare.net/ajeetraina/quantifying-your-world-with-ai-docker-on-the-edge-osconf-2020-jaipur)
 
 **Podcasts**
-* 
+
+* [Okteto, with Ramiro Berrelleza](https://kubernetespodcast.com/episode/125-okteto/)
+* [TFIR: Open Source, Cloud Native & AI/ML](https://player.fm/series/tfir-open-source-cloud-native-aiml)
+* [GitHub's Go-powered CLI](https://changelog.com/gotime/153)
+
 
 **October Events Recordings :**
 * [Let's Learn Okteto and Operator-sdk](https://www.youtube.com/watch?v=FT_DLEhmOWs)
-* [Hands on CKA,CKAD with CKS flavour](https://youtu.be/jZOs8Oips7Q)
-* [Rancher 2.5 Quick Introduction](https://youtu.be/jrLkDTtP3U4)
-* [Wayoint tutorial](https://youtu.be/_FRiBVY1ZXI)
-* [Essential Concepts of Using Flux with InfluxDB](https://youtu.be/o0ip9nqbna8)
-* [https://www.youtube.com/watch?v=ysbFCNMCF3U&t=514s](DevOps Panel Discussion)
-* [https://www.youtube.com/watch?v=_Qp3vCIz058](Becoming a FOSS contributor | Divya Mohan)
-* [https://www.youtube.com/watch?v=zJ86ViHVlaI&t=53s](Extending Kubernetes | Peeyush Gupta)
-* [https://www.youtube.com/watch?v=rjzHgicWd4M&t=171s](A Hitchhiker's Tour to Containerizing a Java application | Nicolas Frankel)
-* [https://www.youtube.com/watch?v=1q-Y6WAtBxQ&t=10s](Quantifying your World with AI & Docker | Ajeet Raina)
-* [https://www.youtube.com/watch?v=1YGDMcDxsZc&t=280s](Running Elastic Stack on Kubernetes | Aravind Putrevu)
-* [https://www.youtube.com/watch?v=nTFHc0YBKhw&t=3s](A PaaS Experience Over Kubernetes That Wont Fail! | Ram Iyengar)
-* [https://www.youtube.com/watch?v=RVToPqD5VIA&t=3074s](OSCONF 2020 Jaipur | Powered By Collabnix | 10th October)
-
+* [OSS Days bu KonfHub](https://www.youtube.com/watch?v=-bAlWBbRtEw)
+* [K8s and github workshop](https://www.youtube.com/watch?v=FTAdG3tDqwo&t=4539s)
 
 
 
 **UPCOMING Events**
-* [Influx days Virtual Event](https://www.influxdays.com/virtual-experience-2020/register-virtual-conference/?utm_campaign=influxdays&utm_medium=social&utm_source=aces&utm_content=saiyampathak)
-* [Cloud native streams](https://www.youtube.com/c/Rawkode/videos?view=2&live_view=502)
+
 
 **Learn from Twitter**
 * [Linux cheatsheet ](https://twitter.com/BiradarSangam/status/1320290002568318976)
-
 
 
 **Tools/Repositories to Try**
@@ -92,8 +75,6 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [Apollo](https://github.com/logzio/apollo)
 * [Kubernetes RBAC static Analysis & visualisation tool](https://github.com/appvia/krane)
 * [IoETPlanet](https://github.com/collabnix/ioetplanet)
-* [Bin](https://github.com/marcosnils/bin)
-* [k3ai](https://github.com/kf5i/k3ai)
 
 
 **Collaboration Links — where community meets and discuss**
