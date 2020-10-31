@@ -2,7 +2,7 @@
 
 ![]()
 
-**Newsletter** — october 2020
+**Newsletter** — October 2020
 
 This is the 5th edition of Hubstation newsletter by the community for the community.
 It Includes all cool stuff happened in the month of october(2020) in the cloud-native space.
