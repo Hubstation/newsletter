@@ -1,6 +1,6 @@
 
 
-![]()
+![](https://raw.githubusercontent.com/Hubstation/newsletter/d757d331accf2ba03d23bfeb4ca89119a46e85ae/assets/img/october.png)
 
 **Newsletter** — October 2020
 
@@ -20,8 +20,6 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [Setting Up Cloud Deployments Using Docker, Azure and Github Actions](https://www.docker.com/blog/setting-up-cloud-deployments-using-docker-azure-and-github-actions/)
 * [Announcing Akri, an open source project for building a connected edge with Kubernetes](https://cloudblogs.microsoft.com/opensource/2020/10/20/announcing-akri-open-source-project-building-connected-edge-kubernetes/)
 * [Promscale: An analytical platform and long-term store for Prometheus, with the combined power of SQL and PromQL](https://blog.timescale.com/blog/promscale-analytical-platform-long-term-store-for-prometheus-combined-sql-promql-postgresql/?utm_source=timescaledb&utm_medium=social&utm_campaign=promscale-2020&utm_content=announcement-blog) by Matvey Arye, Joshua Lockerman and Harkishen Singh
-
-
 
 
 **Channels to subscribe for latest in cloud-native space:**
@@ -54,7 +52,9 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [Level up your shell history with Loki and fzf](https://opensource.com/article/20/10/shell-history-loki-fzf) by  Ed Welch Feed
 
 **Podcasts**
-* 
+* [Okteto, with Ramiro Berrelleza](https://kubernetespodcast.com/episode/125-okteto/)
+* [TFIR: Open Source, Cloud Native & AI/ML](https://player.fm/series/tfir-open-source-cloud-native-aiml)
+* [GitHub's Go-powered CLI](https://changelog.com/gotime/153)
 
 **October Events Recordings :**
 * [Let's Learn Okteto and Operator-sdk](https://www.youtube.com/watch?v=FT_DLEhmOWs)
@@ -62,16 +62,14 @@ A new initiative for the communitry, This year we are coming with new Challenges
 * [Rancher 2.5 Quick Introduction](https://youtu.be/jrLkDTtP3U4)
 * [Wayoint tutorial](https://youtu.be/_FRiBVY1ZXI)
 * [Essential Concepts of Using Flux with InfluxDB](https://youtu.be/o0ip9nqbna8)
-* [https://www.youtube.com/watch?v=ysbFCNMCF3U&t=514s](DevOps Panel Discussion)
-* [https://www.youtube.com/watch?v=_Qp3vCIz058](Becoming a FOSS contributor | Divya Mohan)
-* [https://www.youtube.com/watch?v=zJ86ViHVlaI&t=53s](Extending Kubernetes | Peeyush Gupta)
-* [https://www.youtube.com/watch?v=rjzHgicWd4M&t=171s](A Hitchhiker's Tour to Containerizing a Java application | Nicolas Frankel)
-* [https://www.youtube.com/watch?v=1q-Y6WAtBxQ&t=10s](Quantifying your World with AI & Docker | Ajeet Raina)
-* [https://www.youtube.com/watch?v=1YGDMcDxsZc&t=280s](Running Elastic Stack on Kubernetes | Aravind Putrevu)
-* [https://www.youtube.com/watch?v=nTFHc0YBKhw&t=3s](A PaaS Experience Over Kubernetes That Wont Fail! | Ram Iyengar)
-* [https://www.youtube.com/watch?v=RVToPqD5VIA&t=3074s](OSCONF 2020 Jaipur | Powered By Collabnix | 10th October)
-
-
+* [DevOps Panel Discussion](https://www.youtube.com/watch?v=ysbFCNMCF3U&t=514s)
+* [Becoming a FOSS contributor,Divya Mohan](https://www.youtube.com/watch?v=_Qp3vCIz058)
+* [Extending Kubernetes,Peeyush Gupta](https://www.youtube.com/watch?v=zJ86ViHVlaI&t=53)
+* [A Hitchhiker's Tour to Containerizing a Java application,Nicolas Frankel](https://www.youtube.com/watch?v=rjzHgicWd4M&t=171s)
+* [Quantifying your World with AI & Docker,Ajeet Raina](https://www.youtube.com/watch?v=1q-Y6WAtBxQ&t=10s)
+* [Running Elastic Stack on Kubernetes,Aravind Putrevu](https://www.youtube.com/watch?v=1YGDMcDxsZc&t=280s)
+* [A PaaS Experience Over Kubernetes That Wont Fail!,Ram Iyengar](https://www.youtube.com/watch?v=nTFHc0YBKhw&t=3s)
+* [OSCONF 2020 Jaipur,10th October](https://www.youtube.com/watch?v=RVToPqD5VIA&t=3074s)
 
 
 **UPCOMING Events**
@@ -80,8 +78,6 @@ A new initiative for the communitry, This year we are coming with new Challenges
 
 **Learn from Twitter**
 * [Linux cheatsheet ](https://twitter.com/BiradarSangam/status/1320290002568318976)
-
-
 
 **Tools/Repositories to Try**
 * [Terraform IAC for K3S on AWS ](https://github.com/rancherfederal/k3s-tf)
