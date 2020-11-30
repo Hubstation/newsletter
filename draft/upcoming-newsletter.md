@@ -14,7 +14,6 @@ It Includes all cool stuff happened in the month of November(2020) in the cloud-
 
 
 **Channels to subscribe for latest in cloud-native space:**
-* [tutoriaLinux](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ/videos)
 * [Let's Learn with Saiyam and community](https://youtube.com/c/saiyam911)
 * [ Network Direction](https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A)
 * [Collabnix YouTube Channel](https://www.youtube.com/c/Collabnix)
