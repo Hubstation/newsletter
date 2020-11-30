@@ -13,7 +13,7 @@ It Includes all cool stuff happened in the month of November(2020) in the cloud-
 * [KubeCon NA 2020 Key Takeaways: Platforms, Safety, and End Users](https://blog.getambassador.io/kubecon-na-2020-key-takeaways-platforms-safety-and-end-users-cb6df12082e6)
 * [KubeCon 2020 Highlights and key takeaways](https://www.stackrox.com/post/2020/11/kubecon-2020-highlights-and-key-takeaways/)
 
-**October Tech UPDATES :**
+**November Tech UPDATES :**
 * [CYBER MONDAY Linuc Foundation training and certification Sale](https://training.linuxfoundation.org/cyber-monday-2020/)
 * [Cloud Native Computing Foundation Announces etcd Graduation](https://www.cncf.io/announcements/2020/11/24/cloud-native-computing-foundation-announces-etcd-graduation/)
 * [TOC Approves Cloud Native Buildpacks from Sandbox to Incubation](https://www.cncf.io/blog/2020/11/18/toc-approves-cloud-native-buildpacks-from-sandbox-to-incubation/)
@@ -40,6 +40,7 @@ It Includes all cool stuff happened in the month of November(2020) in the cloud-
 * [Stop Overthinking It: A 5 Minute Guide for Experimenting with Ambassador Easily in a Kubernetes Sandbox](https://medium.com/jaegertracing/a-5-minute-guide-for-experimenting-with-ambassador-and-jaeger-in-a-kubernetes-sandbox-9dd82405744a) - Alex Gervais
 * [Chaos Experiments on Kubernetes using Litmus to ensure your cluster is production ready](https://www.civo.com/learn/chaos-engineering-kubernetes-litmus0) - Saiyam Pathak
 * [Deployments without YAML using Ketch](https://www.civo.com/learn/deployments-without-yaml-using-ketch) - Saiyam Patahk
+* [Docker Captain Take 5 – Ajeet Singh Raina](https://www.docker.com/blog/docker-captain-take-5-ajeet-singh-raina/) 
 
 
 
@@ -51,6 +52,7 @@ It Includes all cool stuff happened in the month of November(2020) in the cloud-
 * [Polaris by Fairwinds introduction and guide](https://youtu.be/5HLfgEjkkkw)
 * [Let's Learn Teleport with 2FA and GiHub Authentication Complete Demo](https://youtu.be/cj1d7qTejtU)
 * [Let's Learn Ketch by Shipa](https://youtu.be/39O9s1JpSxg)
+* [A Quick Demo on RedisEdge Stack running inside Docker Containers](https://www.youtube.com/watch?v=sSMUcAZHarA&t=119s)
 
 
 **UPCOMING Events**
@@ -68,6 +70,7 @@ It Includes all cool stuff happened in the month of November(2020) in the cloud-
 
 * [Run Knative on Raspberry pi](https://github.com/csantanapr/knative-pi)
 * [Cloud Run Docker Mirror](https://github.com/sethvargo/cloud-run-docker-mirror)
+* [A Curated List of Redis Datasets](https://github.com/redis-developer/redis-datasets)
 
 
 **Collaboration Links — where community meets and discuss**
