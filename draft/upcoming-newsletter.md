@@ -46,6 +46,12 @@ It Includes all cool stuff happened in the month of November(2020) in the cloud-
 
 **Podcasts**
 
+* [When distributed systems Go wrong - Kelsey Hightower , Carlisia Thompson ,Stevenson Jean-Pierre,Johnny Boursiquot ](https://changelog.com/gotime/156)
+* [State of Open Source Security With Alyssa Miller](https://www.arresteddevops.com/state-of-open-source-security/)
+* [Service Mesh With Michelle Noorali and Delyan Raychev](https://www.arresteddevops.com/service-mesh/)
+* [Helm Community With Matt Farina, Karen Chu, and Matt Butcher](https://www.arresteddevops.com/helm-community/)
+* [Chris Aniszczyk on starting Open Source Foundations](https://www.softwaredefinedinterviews.com/82)
+
 
 **October Events Recordings :**
 * [Chaos Engineering on Kubernetes with Litmus](https://youtu.be/pHVF_U8yD-g)
@@ -60,6 +66,7 @@ It Includes all cool stuff happened in the month of November(2020) in the cloud-
 * [Let's Learn Portainer - 11 December](https://youtu.be/TK1UB1xby_I)
 * [Civo Webinar - Machine Learning on Kubernetes - 2nd December](https://us02web.zoom.us/webinar/register/8615925616725/WN_0ApQywJhQCe2EXTXOtXAvA)
 * [InfluxData and it’s python client PyConf Hyderabad - 6th December](https://pyconf.hydpy.org/2020/#schedule)
+* [Cloud Native Kitchen December 16, 2020 Online ](https://cloud-native-kitchen.heysummit.com)
 
 **Learn from Twitter**
 * https://twitter.com/danielepolencic/status/1328990158700462080?s=20
