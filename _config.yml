@@ -77,6 +77,7 @@ sass:
   sass_dir: _sass
   style: :compressed
 plugins: [jekyll-paginate]
+         [jekyll-feed]
 exclude:
   - Gemfile
   - Gemfile.lock
